@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarWarsCompose</string>
+    <string name="titulo_holocron">Holocrón Star Wars: Galaxia</string>
+    <string name="buscar_hint">Buscar por nombre o número de ID…</string>
+    <string name="transmitir_reporte">Transmitir reporte a la Rebelión</string>
+    <string name="titulo_compartir">Compartir reporte con la Alianza</string>
+</resources>
