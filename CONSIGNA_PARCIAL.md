@@ -1,7 +1,6 @@
 # Primer Parcial Parte Práctica: Auditoría y Refactorización en Jetpack Compose
 **Materia:** Programación de Aplicaciones Móviles / Desarrollo de Aplicaciones I  
-**Institución:** Universidad Argentina de la Empresa (UADE)  
-**Facultad:** Facultad de Ingeniería y Cs. Exactas  
+
 
 ---
 
